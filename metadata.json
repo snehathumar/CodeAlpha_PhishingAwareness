@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard - Phishing Awareness Training",
+  "description": "Interactive Phishing Awareness Training web module for college students and beginners: inspect phishing emails, spot fake URLs, learn social engineering tactics, explore real-world & India-specific scams, and take a 10-question quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
